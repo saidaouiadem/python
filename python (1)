@@ -1,0 +1,31 @@
+bonjour,monde!
+10 3.14 Alice
+7 10 2.5 1 25
+tu es majour.
+i vaut : 0
+i vaut : 1
+i vaut : 2
+i vaut : 3
+i vaut : 4
+compteur : 0
+compteur : 1
+compteur : 2
+compteur : 3
+compteur : 4
+salut, Alice!
+['pomme', 'banane', 'orange']
+banane
+Alice
+{'nom': 'Alice', 'age': 25, 'ville': 'paris', 'profession': 'ingénieure'}
+pomme
+banane
+orange
+mangue
+nom : Alice
+age : 25
+ville : paris
+profession : ingénieure
+Quel est ton nom ?
+
+Session Killed due to Timeout.
+Press Enter to exit terminal
